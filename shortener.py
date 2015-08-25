@@ -5,8 +5,8 @@ import sys
 
 #Define Bitly Api Details
 
-API_USER = "l0ndoner"
-API_KEY = "6fd9798ab922047be169b516c52681468379013e"
+API_USER = "*****"  # USERNAME
+API_KEY = "****************"  # API KEY
 b = bitly_api.Connection(access_token=API_KEY)
 
 usage = """ Usage: python shortener.py [url]
