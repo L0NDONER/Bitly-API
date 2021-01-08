@@ -1,4 +1,5 @@
 #!user/bin/env python
+# -*- coding: utf-8 -*-
 
 import bitly_api
 import sys
